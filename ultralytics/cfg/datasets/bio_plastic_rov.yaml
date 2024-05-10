@@ -1,0 +1,13 @@
+path: ../datasets/trash2
+train: train/images
+val: valid/images
+
+# number of classes
+nc: 3
+
+# class names
+names: 
+  0: plastic
+  1: bio
+  2: rov
+ 
